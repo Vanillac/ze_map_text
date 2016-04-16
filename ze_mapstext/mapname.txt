@@ -782,7 +782,7 @@
 	}
 	"ze_showdown_v4_1_p"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"对决"
 	}
 	"ze_escape_the_eye_p2"
 	{
