@@ -658,7 +658,7 @@
 	}
 	"ze_journey_p4"
 	{
-		"chi"		"旅途"
+		"chi"		"黑暗之魂：旅途"
 	}
 	"ze_luigismanison_fix2_p3"
 	{
